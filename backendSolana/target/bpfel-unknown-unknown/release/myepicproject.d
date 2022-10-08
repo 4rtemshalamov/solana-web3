@@ -1,0 +1,1 @@
+/Users/artemshalamov/WebstormProjects/tutorials/gif-portal-starter/backendSolana/target/bpfel-unknown-unknown/release/myepicproject.so: /Users/artemshalamov/WebstormProjects/tutorials/gif-portal-starter/backendSolana/programs/myepicproject/src/lib.rs

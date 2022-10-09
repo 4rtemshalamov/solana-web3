@@ -1,0 +1,29 @@
+Streaming transaction logs mentioning GFw24Sd3CGJRkYGE8mbmNDrUigzqfBDsfDEHpakgdoFm. Confirmed commitment
+Transaction executed in slot 167359458:
+  Signature: 5GzS6wJyWF6QD8BEQwxpfZpRtcWN4CPDPJdWGtQcBjxexg7yfufodkhMdwJDPhQFr1tnkyToPHnzFWSqCr7kGfcz
+  Status: Ok
+  Log Messages:
+    Program GFw24Sd3CGJRkYGE8mbmNDrUigzqfBDsfDEHpakgdoFm invoke [1]
+    Program log: Instruction: StartStuffOff
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program GFw24Sd3CGJRkYGE8mbmNDrUigzqfBDsfDEHpakgdoFm consumed 7384 of 200000 compute units
+    Program GFw24Sd3CGJRkYGE8mbmNDrUigzqfBDsfDEHpakgdoFm success
+Transaction executed in slot 167359459:
+  Signature: 5GzS6wJyWF6QD8BEQwxpfZpRtcWN4CPDPJdWGtQcBjxexg7yfufodkhMdwJDPhQFr1tnkyToPHnzFWSqCr7kGfcz
+  Status: Ok
+  Log Messages:
+    Program GFw24Sd3CGJRkYGE8mbmNDrUigzqfBDsfDEHpakgdoFm invoke [1]
+    Program log: Instruction: StartStuffOff
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program GFw24Sd3CGJRkYGE8mbmNDrUigzqfBDsfDEHpakgdoFm consumed 7384 of 200000 compute units
+    Program GFw24Sd3CGJRkYGE8mbmNDrUigzqfBDsfDEHpakgdoFm success
+Transaction executed in slot 167359461:
+  Signature: 4GspPXJV9iMGfDLatFfzzpi6inuAVYcJsGyPukkpRnbn1kLeQ79V4M36HpNPDBvMnNpsLogHGBuD2nVQXvBMvSij
+  Status: Ok
+  Log Messages:
+    Program GFw24Sd3CGJRkYGE8mbmNDrUigzqfBDsfDEHpakgdoFm invoke [1]
+    Program log: Instruction: AddGif
+    Program GFw24Sd3CGJRkYGE8mbmNDrUigzqfBDsfDEHpakgdoFm consumed 3505 of 200000 compute units
+    Program GFw24Sd3CGJRkYGE8mbmNDrUigzqfBDsfDEHpakgdoFm success
